@@ -76,7 +76,6 @@ How to Run the Project
 You'll need the .NET 8 SDK and either Visual Studio or Visual Studio Code installed.
 
 Clone the repository
-https://github.com/SahithiM9/accesible_service_request_portal.git
 git clone https://github.com/SahithiM9/accesible_service_request_portal.git
 Open the project directory
 cd accessible-service-request-portal/IowaAccessibleServicesPortal
@@ -107,8 +106,7 @@ Setting up CI/CD using Azure DevOps
 Project Repository
 
 You can find the source code here:
-
-https://github.com/sahithim979-droid/accessible-service-request-portal
+(https://github.com/SahithiM9/accesible_service_request_portal.git)
 
 This is an independent portfolio project created to demonstrate .NET development, responsive UI implementation, and accessibility-focused design practices. It is not affiliated with the State of Iowa.
 
