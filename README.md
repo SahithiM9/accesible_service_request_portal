@@ -76,7 +76,7 @@ How to Run the Project
 You'll need the .NET 8 SDK and either Visual Studio or Visual Studio Code installed.
 
 Clone the repository
-git clone https://github.com/SahithiM9/accesible_service_request_portal.git
+[git clone https://github.com/SahithiM9/accesible_service_request_portal.git]
 Open the project directory
 cd accessible-service-request-portal/IowaAccessibleServicesPortal
 Restore the dependencies
